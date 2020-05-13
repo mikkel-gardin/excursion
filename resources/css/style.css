@@ -1,0 +1,19 @@
+/* Universal Styles */
+
+body {
+    font-family: "Verdana";
+    text-align: center;
+    background-color: black;
+}
+
+.header--main {
+    color: white;
+    font-size: 50px;
+    font-weight: normal;
+}
+
+.link--cta {
+    color: aquamarine;
+    font-size: 16px;
+    text-decoration: underline;
+}
